@@ -32,12 +32,20 @@
       "name": "中天新聞"
     },
     {
+      "url": "https://www.youtube.com/watch?v=WPfPjbOLNfE",
+      "name": "中天新聞2台"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
       "name": "寰宇新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
-      "name": "寰宇新聞台灣台"
+      "name": "寰宇台灣台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
+      "name": "寰宇財經台"
     },
     {
       "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
@@ -72,6 +80,18 @@
       "name": "公共電視"
     },
     {
+      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
+      "name": "新唐人亞太電視台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dYxLyeUKm_Q",
+      "name": "NOWnews新聞AI主播"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JaGd4Yy_xjA",
+      "name": "HOP Sports 24"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=HFib76ySpbU",
       "name": "鳳凰衛視資訊台"
     },
@@ -80,12 +100,24 @@
       "name": "CCTV_4"
     },
     {
+      "url": "http://61.221.215.25:8800/hls/50/index.m3u8",
+      "name": 探索亞洲"
+    },
+    {
       "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8",
       "name": "4k动物"
     },
     {
       "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
       "name": "動物星球"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JVocS7Yftw8",
+      "name": "THE K-POP"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7Jv9T5gMbkE",
+      "name": 中文流行音樂"
     },
     {
       "url": "https://www.youtube.com/watch?v=hSzt7cJOT80",
