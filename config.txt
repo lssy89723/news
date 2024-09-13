@@ -84,10 +84,6 @@
       "name": "新唐人亞太電視台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=bprj3RJEeW4",
-      "name": "NOWnews新聞AI主播"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=JaGd4Yy_xjA",
       "name": "HOP Sports 24"
     },
