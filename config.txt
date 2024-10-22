@@ -60,6 +60,10 @@
       "name": "三立iNEWS"
     },
     {
+      "url": "https://stream1.freetv.fun/nian-dai-xin-wen-7.m3u8",
+      "name": "年代新聞"
+    },
+    {
       "url": "https://www.youtube.com/c/twctvnews/live",
       "name": "中視新聞"
     },
