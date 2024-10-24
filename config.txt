@@ -28,6 +28,10 @@
       "name": "東森新聞"
     },
     {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv009",
+      "name": "中天新聞"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=oIgbl7t0S_w",
       "name": "中天新聞"
     },
