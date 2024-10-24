@@ -69,15 +69,19 @@
     },
     {
       "url": "https://www.youtube.com/c/twctvnews/live",
-      "name": "中視新聞"
+      "name": "中視"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv041",
+      "name": "華視"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
-      "name": "台視新聞"
+      "name": "台視"
     },
     {
       "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
-      "name": "民視新聞"
+      "name": "民視"
     },
     {
       "url": "https://www.youtube.com/watch?v=YfeacCN2ORs",
