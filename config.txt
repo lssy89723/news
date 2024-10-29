@@ -28,10 +28,6 @@
       "name": "東森新聞"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv009",
-      "name": "中天新聞"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=oIgbl7t0S_w",
       "name": "中天新聞"
     },
@@ -124,8 +120,8 @@
       "name": "THE K-POP"
     },
     {
-      "url": "https://www.youtube.com/watch?v=7Jv9T5gMbkE",
-      "name": "中文流行音樂"
+      "url": "https://www.youtube.com/watch?v=ZadWtMrj614",
+      "name": "網路流行音樂"
     },
     {
       "url": "https://www.youtube.com/watch?v=hSzt7cJOT80",
