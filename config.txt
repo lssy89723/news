@@ -97,7 +97,11 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=HFib76ySpbU",
-      "name": "鳳凰衛視資訊台"
+      "name": "鳳凰衛視台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bGIIO3HuNyI",
+      "name": "鳳凰資訊台"
     },
     {
       "url": "https://www.youtube.com/watch?v=twhG7_jvA8g",
@@ -114,6 +118,18 @@
     {
       "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
       "name": "動物星球"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OrX2QQtMkkY",
+      "name": "MOMO親子台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4O8xAZ5VUGY",
+      "name": "YOYO TV"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y-q0zwmglcc",
+      "name": "GPTV電影台"
     },
     {
       "url": "https://www.youtube.com/watch?v=JVocS7Yftw8",
