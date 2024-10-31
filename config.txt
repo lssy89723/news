@@ -48,10 +48,6 @@
       "name": "寰宇財經台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
-      "name": "華視新聞"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
       "name": "鏡新聞"
     },
@@ -68,7 +64,7 @@
       "name": "中視"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv041",
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
       "name": "華視"
     },
     {
