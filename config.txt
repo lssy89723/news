@@ -28,11 +28,11 @@
       "name": "東森新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=oIgbl7t0S_w",
+      "url": "https://www.youtube.com/watch?v=vr3XyVCR4T0",
       "name": "中天新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=WPfPjbOLNfE",
+      "url": "https://www.youtube.com/watch?v=DM_PEM8GrIg",
       "name": "中天新聞2台"
     },
     {
@@ -76,12 +76,12 @@
       "name": "民視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=YfeacCN2ORs",
-      "name": "中天亞洲台"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
       "name": "公共電視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YfeacCN2ORs",
+      "name": "中天亞洲台"
     },
     {
       "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
@@ -132,12 +132,16 @@
       "name": "THE K-POP"
     },
     {
-      "url": "https://www.youtube.com/watch?v=ZadWtMrj614",
+      "url": "https://www.youtube.com/watch?v=o1ipHJUfFTM",
       "name": "網路流行音樂"
     },
     {
+      "url": "https://www.youtube.com/watch?v=UHboPifBUHc",
+      "name": "KKBOX榜单歌曲"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=hSzt7cJOT80",
-      "name": "抖音热歌"
+      "name": "抖音中文热歌"
     }
   ]
 }
