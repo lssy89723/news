@@ -124,7 +124,7 @@
       "name": "YOYO TV"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Y-q0zwmglcc",
+      "url": "https://www.youtube.com/watch?v=uLCJwi8S0JA",
       "name": "GPTV電影台"
     },
     {
