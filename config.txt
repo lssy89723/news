@@ -68,7 +68,7 @@
       "name": "華視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk&list=WL&index=3",
       "name": "台視"
     },
     {
