@@ -16,8 +16,12 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
+      "url": "https://www.youtube.com/watch?v=1I2iq41Akmo",
       "name": "東森財經新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
+      "name": "寰宇財經台"
     },
     {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
@@ -130,10 +134,6 @@
     {
       "url": "https://www.youtube.com/watch?v=JVocS7Yftw8",
       "name": "THE K-POP"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=o1ipHJUfFTM",
-      "name": "網路流行音樂"
     },
     {
       "url": "https://www.youtube.com/watch?v=UHboPifBUHc",
