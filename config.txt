@@ -96,7 +96,7 @@
       "name": "鳳凰資訊台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=twhG7_jvA8g",
+      "url": "https://www.youtube.com/watch?v=SdzewdkJa-o",
       "name": "CCTV_4"
     },
     {
@@ -112,7 +112,7 @@
       "name": "動物星球"
     },
     {
-      "url": "https://www.youtube.com/watch?v=OrX2QQtMkkY",
+      "url": "https://youtu.be/8J-wVAMGzcg",
       "name": "MOMO親子台"
     },
     {
@@ -120,20 +120,16 @@
       "name": "YOYO TV"
     },
     {
-      "url": "https://www.youtube.com/watch?v=uLCJwi8S0JA",
-      "name": "GPTV電影台"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=JVocS7Yftw8",
       "name": "THE K-POP"
     },
     {
-      "url": "https://www.youtube.com/watch?v=UHboPifBUHc",
-      "name": "KKBOX榜单歌曲"
+      "url": "https://youtu.be/7C_fX3gzBFk",
+      "name": "中文抖音热歌"
     },
     {
-      "url": "https://www.youtube.com/watch?v=hSzt7cJOT80",
-      "name": "抖音中文热歌"
+      "url": "https://www.youtube.com/watch?v=IWBm0XfvVqs",
+      "name": "中文流行音樂"
     }
   ]
 }
