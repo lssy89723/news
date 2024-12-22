@@ -116,7 +116,7 @@
       "name": "MOMO親子台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=4O8xAZ5VUGY",
+      "url": "https://youtu.be/9Iv4JuCEjH4",
       "name": "YOYO TV"
     },
     {
