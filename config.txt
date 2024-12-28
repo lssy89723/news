@@ -36,7 +36,7 @@
       "name": "中天新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=DM_PEM8GrIg",
+      "url": "https://youtu.be/R2ci13O5Mt0",
       "name": "中天新聞2台"
     },
     {
@@ -128,7 +128,7 @@
       "name": "中文抖音热歌"
     },
     {
-      "url": "https://www.youtube.com/watch?v=IWBm0XfvVqs",
+      "url": "https://youtu.be/oxEWHZhZ5E4",
       "name": "中文流行音樂"
     }
   ]
