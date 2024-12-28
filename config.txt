@@ -76,7 +76,7 @@
       "name": "公共電視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=YfeacCN2ORs",
+      "url": "https://www.youtube.com/watch?v=R2ci13O5Mt0",
       "name": "中天亞洲台"
     },
     {
