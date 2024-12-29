@@ -40,7 +40,7 @@
       "name": "中天新聞"
     },
     {
-      "url": "https://youtu.be/R2ci13O5Mt0",
+      "url": "https://www.youtube.com/watch?v=DM_PEM8GrIg",
       "name": "中天新聞2台"
     },
     {
@@ -52,6 +52,10 @@
       "name": "鏡新聞"
     },
     {
+      "url": "https://www.youtube.com/watch?v=MV9mI0GChwo",
+      "name": "三立新聞"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
       "name": "三立iNEWS"
     },
@@ -60,16 +64,16 @@
       "name": "中視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
-      "name": "華視"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk&list=WL&index=3",
       "name": "台視"
     },
     {
       "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
       "name": "民視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "name": "華視"
     },
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
@@ -100,10 +104,6 @@
       "name": "CCTV_4"
     },
     {
-      "url": "https://yeslivetv.com/channels/cctv5-plus/",
-      "name": "CCTV5+"
-    },
-    {
       "url": "http://61.221.215.25:8800/hls/50/index.m3u8",
       "name": "探索亞洲"
     },
@@ -116,11 +116,11 @@
       "name": "動物星球"
     },
     {
-      "url": "https://youtu.be/8J-wVAMGzcg",
+      "url": "https://www.youtube.com/watch?v=8J-wVAMGzcg",
       "name": "MOMO親子台"
     },
     {
-      "url": "https://youtu.be/9Iv4JuCEjH4",
+      "url": "https://www.youtube.com/watch?v=9Iv4JuCEjH4",
       "name": "YOYO TV"
     },
     {
@@ -128,11 +128,11 @@
       "name": "THE K-POP"
     },
     {
-      "url": "https://youtu.be/7C_fX3gzBFk",
-      "name": "中文抖音热歌"
+      "url": "https://www.youtube.com/watch?v=eORWM1szMxc",
+      "name": "中文抖音歌曲"
     },
     {
-      "url": "https://youtu.be/oxEWHZhZ5E4",
+      "url": "https://www.youtube.com/watch?v=oxEWHZhZ5E4",
       "name": "中文流行音樂"
     }
   ]
