@@ -80,14 +80,6 @@
       "name": "中天亞洲台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
-      "name": "新唐人亞太電視台"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=JaGd4Yy_xjA",
-      "name": "HOP Sports 24"
-    },
-    {
       "url": "https://youtu.be/HFib76ySpbU",
       "name": "鳳凰衛視台"
     },
@@ -112,7 +104,15 @@
       "name": "動物星球"
     },
     {
-      "url": "https://www.youtube.com/watch?v=8J-wVAMGzcg",
+      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
+      "name": "新唐人亞太電視台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JaGd4Yy_xjA",
+      "name": "HOP Sports 24"
+    },
+    {
+      "url": "https://youtu.be/WyWWNSX6B9I",
       "name": "MOMO親子台"
     },
     {
