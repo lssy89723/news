@@ -132,7 +132,7 @@
       "name": "網路流行音樂"
     },
     {
-      "url": "http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290",
+      "url": "http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8",
       "name": "東森新聞51"
     }
   ]
