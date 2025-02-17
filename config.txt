@@ -128,7 +128,7 @@
       "name": "中文抖音歌曲"
     },
     {
-      "url": "https://youtu.be/aJwpJrKPdh8",
+      "url": "https://youtu.be/FVOszCEtM0A",
       "name": "網路流行音樂"
     },
     {
