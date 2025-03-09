@@ -132,7 +132,7 @@
       "name": "網路流行音樂"
     },
     {
-      "url": "http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8",
+      "url": "http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8",
       "name": "東森新聞51"
     }
   ]
