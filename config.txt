@@ -47,10 +47,6 @@
       "name": "鏡新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=MV9mI0GChwo",
-      "name": "三立新聞"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
       "name": "三立iNEWS"
     },
@@ -80,19 +76,7 @@
       "name": "中天亞洲台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
-      "name": "新唐人亞太電視台"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=JaGd4Yy_xjA",
-      "name": "HOP Sports 24"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=HFib76ySpbU",
-      "name": "鳳凰衛視台"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=bGIIO3HuNyI",
+      "url": "https://youtu.be/LNux6O0Fj6A",
       "name": "鳳凰資訊台"
     },
     {
@@ -104,7 +88,7 @@
       "name": "探索亞洲"
     },
     {
-      "url": "http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8",
+      "url": http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8",
       "name": "lovenature"
     },
     {
@@ -112,11 +96,19 @@
       "name": "動物星球"
     },
     {
-      "url": "https://www.youtube.com/watch?v=8J-wVAMGzcg",
+      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
+      "name": "新唐人亞太電視台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JaGd4Yy_xjA",
+      "name": "HOP Sports 24"
+    },
+    {
+      "url": "https://youtu.be/WyWWNSX6B9I",
       "name": "MOMO親子台"
     },
     {
-      "url": "https://youtu.be/PWyQLyL6PFE",
+      "url": "https://youtu.be/M_72xNHoo58",
       "name": "YOYO TV"
     },
     {
@@ -128,11 +120,11 @@
       "name": "中文抖音歌曲"
     },
     {
-      "url": "https://youtu.be/aJwpJrKPdh8",
+      "url": "https://youtu.be/FVOszCEtM0A",
       "name": "網路流行音樂"
     },
     {
-      "url": "http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8",
+      "url": "http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8",
       "name": "東森新聞51"
     }
   ]
