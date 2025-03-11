@@ -6,6 +6,18 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
+      "url": "http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8",
+      "name": "東森新聞51"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "name": "寰宇新聞"
+    },
+    {
+      "url": "https://youtu.be/LNux6O0Fj6A",
+      "name": "鳳凰資訊台"
+    },
+    {
        "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
       "name": "非凡新聞",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
@@ -13,10 +25,6 @@
     {
       "url": "https://www.youtube.com/watch?v=1I2iq41Akmo",
       "name": "東森財經新聞"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
-      "name": "寰宇新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
@@ -80,28 +88,8 @@
       "name": "中天亞洲台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
-      "name": "新唐人亞太電視台"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=JaGd4Yy_xjA",
-      "name": "HOP Sports 24"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=HFib76ySpbU",
-      "name": "鳳凰衛視台"
-    },
-    {
-      "url": "https://youtu.be/LNux6O0Fj6A",
-      "name": "鳳凰資訊台"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=SdzewdkJa-o",
       "name": "CCTV_4"
-    },
-    {
-      "url": "http://61.221.215.25:8800/hls/50/index.m3u8",
-      "name": "探索亞洲"
     },
     {
       "url": "http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8",
@@ -120,20 +108,12 @@
       "name": "YOYO TV"
     },
     {
-      "url": "https://www.youtube.com/watch?v=JVocS7Yftw8",
-      "name": "THE K-POP"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=eORWM1szMxc",
       "name": "中文抖音歌曲"
     },
     {
       "url": "https://youtu.be/FVOszCEtM0A",
       "name": "網路流行音樂"
-    },
-    {
-      "url": "http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8",
-      "name": "東森新聞51"
     }
   ]
 }
