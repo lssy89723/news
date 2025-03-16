@@ -6,18 +6,6 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8",
-      "name": "東森新聞51"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
-      "name": "寰宇新聞"
-    },
-    {
-      "url": "https://youtu.be/LNux6O0Fj6A",
-      "name": "鳳凰資訊台"
-    },
-    {
        "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
       "name": "非凡新聞",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
@@ -25,6 +13,10 @@
     {
       "url": "https://www.youtube.com/watch?v=1I2iq41Akmo",
       "name": "東森財經新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "name": "寰宇新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
@@ -54,3 +46,94 @@
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
       "name": "鏡新聞"
     },
+    {
+      "url": "https://www.youtube.com/watch?v=MV9mI0GChwo",
+      "name": "三立新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
+      "name": "三立iNEWS"
+    },
+    {
+      "url": "https://www.youtube.com/c/twctvnews/live",
+      "name": "中視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk&list=WL&index=3",
+      "name": "台視"
+    },
+    {
+       "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
+      "name": "民視",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "name": "華視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "name": "公共電視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=R2ci13O5Mt0",
+      "name": "中天亞洲台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
+      "name": "新唐人亞太電視台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JaGd4Yy_xjA",
+      "name": "HOP Sports 24"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HFib76ySpbU",
+      "name": "鳳凰衛視台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bGIIO3HuNyI",
+      "name": "鳳凰資訊台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SdzewdkJa-o",
+      "name": "CCTV_4"
+    },
+    {
+      "url": "http://61.221.215.25:8800/hls/50/index.m3u8",
+      "name": "探索亞洲"
+    },
+    {
+      "url": "http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8",
+      "name": "lovenature"
+    },
+    {
+      "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
+      "name": "動物星球"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8J-wVAMGzcg",
+      "name": "MOMO親子台"
+    },
+    {
+      "url": "https://youtu.be/PWyQLyL6PFE",
+      "name": "YOYO TV"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JVocS7Yftw8",
+      "name": "THE K-POP"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eORWM1szMxc",
+      "name": "中文抖音歌曲"
+    },
+    {
+      "url": "https://youtu.be/aJwpJrKPdh8",
+      "name": "網路流行音樂"
+    },
+    {
+      "url": "http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8",
+      "name": "東森新聞51"
+    }
+  ]
+}
