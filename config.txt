@@ -6,8 +6,8 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
-      "name": "EBC東森LIVE"
+      "url": "http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8",
+      "name": "東森新聞51"
     },
     {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
@@ -35,8 +35,8 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8",
-      "name": "東森新聞51"
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "name": "東森新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=vr3XyVCR4T0",
@@ -54,62 +54,3 @@
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
       "name": "鏡新聞"
     },
-    {
-      "url": "https://www.youtube.com/watch?v=MV9mI0GChwo",
-      "name": "三立新聞"
-    },
-    {
-      "url": "https://www.youtube.com/c/twctvnews/live",
-      "name": "中視"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk&list=WL&index=3",
-      "name": "台視"
-    },
-    {
-       "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
-      "name": "民視",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
-      "name": "華視"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-      "name": "公共電視"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=R2ci13O5Mt0",
-      "name": "中天亞洲台"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=SdzewdkJa-o",
-      "name": "CCTV_4"
-    },
-    {
-      "url": "http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8",
-      "name": "lovenature"
-    },
-    {
-      "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
-      "name": "動物星球"
-    },
-    {
-      "url": "https://youtu.be/WyWWNSX6B9I",
-      "name": "MOMO親子台"
-    },
-    {
-      "url": "https://youtu.be/M_72xNHoo58",
-      "name": "YOYO TV"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=eORWM1szMxc",
-      "name": "中文抖音歌曲"
-    },
-    {
-      "url": "https://youtu.be/FVOszCEtM0A",
-      "name": "網路流行音樂"
-    }
-  ]
-}
