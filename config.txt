@@ -80,7 +80,7 @@
       "name": "公共電視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=R2ci13O5Mt0",
+      "url": "https://youtu.be/1gjlfQ4b1ZU",
       "name": "中天亞洲台"
     },
     {
@@ -100,7 +100,7 @@
       "name": "MOMO親子台"
     },
     {
-      "url": "https://youtu.be/M_72xNHoo58",
+      "url": "https://youtu.be/YuOJqILB8Js",
       "name": "YOYO TV"
     },
     {
