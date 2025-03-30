@@ -84,8 +84,8 @@
       "name": "公共電視"
     },
     {
-      "url": "https://youtu.be/1gjlfQ4b1ZU",
-      "name": "中天亞洲台"
+      "url": "https://youtu.be/UtOw97Ba8hE",
+      "name": "大陸尋奇"
     },
     {
       "url": "https://www.youtube.com/watch?v=SdzewdkJa-o",
