@@ -36,7 +36,7 @@
     },
     {
       "url":"http://108.181.20.197/livehttpplay?channel_id=20082",
-      "name": "東森新聞51"
+      "name": "EBC東森新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=vr3XyVCR4T0",
