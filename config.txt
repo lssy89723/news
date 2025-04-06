@@ -96,7 +96,7 @@
       "name": "lovenature"
     },
     {
-      "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
+      "url": "http://108.181.21.27:27347/livehttpplay?channel_id=20106",
       "name": "動物星球"
     },
     {
