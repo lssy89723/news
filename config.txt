@@ -114,6 +114,10 @@
     {
       "url": "https://youtu.be/t5XwegDS9Hc",
       "name": "網路流行音樂"
+    },
+    {
+      "url": "http://cdn.adultiptv.net/russian.m3u8",
+      "name": "俄罗斯720"
     }
   ]
 }
