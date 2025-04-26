@@ -14,10 +14,6 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "https://youtu.be/LNux6O0Fj6A",
-      "name": "鳳凰資訊台"
-    },
-    {
        "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
       "name": "非凡新聞",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
@@ -29,6 +25,10 @@
     {
       "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
       "name": "寰宇財經台"
+    },
+    {
+      "url": "https://youtu.be/LNux6O0Fj6A",
+      "name": "鳳凰資訊台"
     },
     {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
@@ -92,7 +92,7 @@
       "name": "CCTV_4"
     },
     {
-      "url": "http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8",
+      "url": "https://epg.pw/stream/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b8861ece58.m3u8",
       "name": "lovenature"
     },
     {
