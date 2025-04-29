@@ -55,6 +55,10 @@
       "name": "鏡新聞"
     },
     {
+      "url": "http://108.181.20.197/livehttpplay?channel_id=20028",
+      "name": "壹新聞"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=MV9mI0GChwo",
       "name": "三立新聞"
     },
