@@ -96,7 +96,7 @@
       "name": "lovenature"
     },
     {
-      "url": "http://108.181.21.27:27347/livehttpplay?channel_id=20106",
+      "url": "http://108.181.20.197/livehttpplay?channel_id=20106",
       "name": "動物星球"
     },
     {
@@ -112,7 +112,7 @@
       "name": "中文抖音歌曲"
     },
     {
-      "url": "https://youtu.be/t5XwegDS9Hc",
+      "url": "https://youtu.be/qBHTjRpY7II",
       "name": "網路流行音樂"
     }
   ]
