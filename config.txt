@@ -23,7 +23,7 @@
       "name": "東森財經新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
+      "url": "https://youtu.be/ZjUbipAlUlc",
       "name": "寰宇財經台"
     },
     {
@@ -104,7 +104,7 @@
       "name": "動物星球"
     },
     {
-      "url": "https://youtu.be/Us2fxb2Ok7U",
+      "url": "https://youtu.be/1ERZYlbrbPU",
       "name": "MOMO親子台"
     },
     {
