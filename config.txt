@@ -35,10 +35,6 @@
       "name": "TVBS新聞"
     },
     {
-      "url":"http://108.181.20.197/livehttpplay?channel_id=20082",
-      "name": "EBC東森新聞"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=vr3XyVCR4T0",
       "name": "中天新聞"
     },
@@ -53,10 +49,6 @@
     {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
       "name": "鏡新聞"
-    },
-    {
-      "url": "http://108.181.20.197/livehttpplay?channel_id=20028",
-      "name": "壹新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=MV9mI0GChwo",
@@ -96,7 +88,7 @@
       "name": "CCTV_4"
     },
     {
-      "url": "http://108.181.20.197/livehttpplay?channel_id=20106",
+      "url": "http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702",
       "name": "動物星球"
     },
     {
