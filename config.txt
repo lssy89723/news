@@ -80,7 +80,7 @@
       "name": "公共電視"
     },
     {
-      "url": "https://youtu.be/UtOw97Ba8hE",
+      "url": "https://youtu.be/cOEt7MN95qo",
       "name": "大陸尋奇"
     },
     {
@@ -88,7 +88,7 @@
       "name": "CCTV_4"
     },
     {
-      "url": "http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702",
+      "url": "http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288",
       "name": "動物星球"
     },
     {
@@ -96,7 +96,7 @@
       "name": "MOMO親子台"
     },
     {
-      "url": "https://youtu.be/31cBsZ9DdRQ",
+      "url": "https://youtu.be/cRCETVYctNU",
       "name": "YOYO TV"
     },
     {
