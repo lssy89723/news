@@ -88,15 +88,15 @@
       "name": "CCTV_4"
     },
     {
-      "url": "http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288",
+      "url": "http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1",
       "name": "動物星球"
     },
     {
-      "url": "https://youtu.be/LVl13nrr6gs",
+      "url": "https://youtu.be/5XZsghzhzI8",
       "name": "MOMO親子台"
     },
     {
-      "url": "https://youtu.be/cRCETVYctNU",
+      "url": "https://youtu.be/LgBsJGbQVRI",
       "name": "YOYO TV"
     },
     {
