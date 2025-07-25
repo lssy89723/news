@@ -100,7 +100,7 @@
       "name": "MOMO親子台"
     },
     {
-      "url": "https://youtu.be/LgBsJGbQVRI",
+      "url": "https://youtu.be/v379kWQJUGY",
       "name": "YOYO TV"
     },
     {
