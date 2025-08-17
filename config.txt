@@ -88,15 +88,11 @@
       "name": "CCTV_4"
     },
     {
-      "url": "http://198.16.100.186:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794",
-      "name": "国家地理"
-    },
-    {
       "url": "http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8",
       "name": "Love Nature HD"
     },
     {
-      "url": "https://youtu.be/5XZsghzhzI8",
+      "url": "https://youtu.be/4t066jh5-3o",
       "name": "MOMO親子台"
     },
     {
@@ -113,4 +109,5 @@
     }
   ]
 }
+
 
