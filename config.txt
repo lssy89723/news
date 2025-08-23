@@ -55,6 +55,10 @@
       "name": "三立新聞"
     },
     {
+      "url": "http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8,
+      "name": "壹新聞"
+    },
+    {
       "url": "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
       "name": "年代新聞"
     },
@@ -92,14 +96,6 @@
       "name": "Love Nature HD"
     },
     {
-      "url": "https://youtu.be/4t066jh5-3o",
-      "name": "MOMO親子台"
-    },
-    {
-      "url": "https://youtu.be/v379kWQJUGY",
-      "name": "YOYO TV"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=eORWM1szMxc",
       "name": "中文抖音歌曲"
     },
@@ -109,6 +105,7 @@
     }
   ]
 }
+
 
 
 
