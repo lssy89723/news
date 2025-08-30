@@ -88,7 +88,7 @@
       "name": "公共電視"
     },
     {
-      "url": "https://youtu.be/cOEt7MN95qo",
+      "url": "https://youtu.be/Zxgl3tjV9x4",
       "name": "大陸尋奇"
     },
     {
@@ -100,7 +100,7 @@
       "name": "Love Nature HD"
     },
     {
-      "url": "https://www.youtube.com/watch?v=eORWM1szMxc",
+      "url": "https://youtu.be/q-GoS5jFaQY",
       "name": "中文抖音歌曲"
     },
     {
@@ -109,6 +109,7 @@
     }
   ]
 }
+
 
 
 
