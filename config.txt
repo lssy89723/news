@@ -27,7 +27,7 @@
       "name": "寰宇財經台"
     },
     {
-      "url": "https://youtu.be/LNux6O0Fj6A",
+      "url": "https://youtu.be/fN9uYWCjQaw",
       "name": "鳳凰資訊台"
     },
     {
@@ -100,7 +100,7 @@
       "name": "Love Nature HD"
     },
     {
-      "url": "https://youtu.be/q-GoS5jFaQY",
+      "url": "https://youtu.be/lqK43wxQm7Y",
       "name": "中文抖音歌曲"
     },
     {
@@ -109,6 +109,7 @@
     }
   ]
 }
+
 
 
 
