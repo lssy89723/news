@@ -92,7 +92,7 @@
       "name": "大陸尋奇"
     },
     {
-      "url": "https://www.youtube.com/watch?v=SdzewdkJa-o",
+      "url": "https://youtu.be/7j92Myu2wzg",
       "name": "CCTV_4"
     },
     {
@@ -105,6 +105,7 @@
     }
   ]
 }
+
 
 
 
