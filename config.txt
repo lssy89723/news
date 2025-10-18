@@ -43,10 +43,6 @@
       "name": "中天新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=DM_PEM8GrIg",
-      "name": "中天新聞2台"
-    },
-    {
       "url": "https://youtu.be/w87VGpgd90U",
       "name": "寰宇台灣台"
     },
@@ -105,6 +101,7 @@
     }
   ]
 }
+
 
 
 
