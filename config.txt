@@ -6,7 +6,7 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://youtu.be/f9P_slj4KvU",
+      "url": "https://www.youtube.com/watch?v=f9P_slj4KvU",
       "name": "TVBS 56"
     },
     {
@@ -100,6 +100,7 @@
     }
   ]
 }
+
 
 
 
