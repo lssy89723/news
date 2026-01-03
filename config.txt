@@ -35,7 +35,7 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292",
       "name": "EBC東森LIVE"
     },
     {
@@ -96,6 +96,7 @@
     }
   ]
 }
+
 
 
 
