@@ -6,8 +6,8 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316",
-      "name": "EBC東森新聞51"
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "name": "EBC東森LIVE"
     },
     {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
@@ -33,10 +33,6 @@
     {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
       "name": "TVBS新聞"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
-      "name": "EBC東森LIVE"
     },
     {
       "url": "https://www.youtube.com/watch?v=vr3XyVCR4T0",
@@ -96,6 +92,7 @@
     }
   ]
 }
+
 
 
 
