@@ -6,6 +6,10 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
+      "url": "http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316",
+      "name": "東森新聞57"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
       "name": "EBC東森LIVE"
     },
@@ -92,6 +96,7 @@
     }
   ]
 }
+
 
 
 
