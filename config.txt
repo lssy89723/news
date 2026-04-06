@@ -83,7 +83,7 @@
       "name": "中文抖音歌曲"
     },
     {
-      "url": "https://hamivideo.hinet.net/channel/OTT_LIVE_0000001564.do",
+      "url": "https://www.youtube.com/watch?v=_gUexdwEhoM",
       "name": "網路流行音樂"
     }
   ]
