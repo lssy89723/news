@@ -71,11 +71,11 @@
       "name": "公共電視"
     },
     {
-      "url": "https://youtu.be/In_HXlgUt8w",
+      "url": "https://www.youtube.com/watch?v=Kc5OXLZ9NEw",
       "name": "大陸尋奇"
     },
     {
-      "url": "https://www.youtube.com/watch?v=TsccmbyNk6g",
+      "url": "https://www.youtube.com/watch?v=vNVp6bxkL1c",
       "name": "CCTV_4"
     },
     {
@@ -83,8 +83,8 @@
       "name": "中文抖音歌曲"
     },
     {
-      "url": "https://www.youtube.com/watch?v=_gUexdwEhoM",
-      "name": "網路流行音樂"
+      "url": "https://www.youtube.com/watch?v=yGucWCumZh4",
+      "name": "中文流行音樂"
     }
   ]
 }
