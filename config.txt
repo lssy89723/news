@@ -10,7 +10,7 @@
       "name": "EBC東森LIVE"
     },
     {
-      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn14",
       "name": "寰宇新聞"
     },
     {
@@ -35,12 +35,20 @@
       "name": "TVBS56"
     },
     {
-      "url": "https://www.youtube.com/watch?v=vr3XyVCR4T0",
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv009",
       "name": "中天新聞"
     },
     {
-      "url": "https://youtu.be/w87VGpgd90U",
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv156",
       "name": "寰宇台灣台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv074",
+      "name": "中視新聞"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv052",
+      "name": "華視新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
@@ -55,12 +63,12 @@
       "name": "中視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk&list=WL&index=3",
-      "name": "台視"
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv041",
+      "name": "華視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
-      "name": "華視"
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk&list=WL&index=3",
+      "name": "台視"
     },
     {
       "url": "https://youtu.be/ylYJSBUgaMA",
