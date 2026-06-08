@@ -55,8 +55,8 @@
       "name": "鏡新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=QsGswQvRmtU",
-      "name": "三立新聞"
+      "url": "https://www.ofiii.com/channel/watch/iNEWS",
+      "name": "三立新聞iNEWS"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv040",
