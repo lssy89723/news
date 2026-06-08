@@ -23,10 +23,6 @@
       "name": "東森財經新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=fN9uYWCjQaw",
-      "name": "鳳凰資訊台"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
       "name": "TVBS新聞"
     },
@@ -39,19 +35,23 @@
       "name": "中天新聞"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv156",
-      "name": "寰宇台灣台"
-    },
-    {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv074",
       "name": "中視新聞"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv052",
-      "name": "華視新聞"
+      "name": "CTS華視新聞資訊"
     },
     {
-      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "url": "https://youtu.be/sNtCBxP-8LY",
+      "name": "台視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "name": "民視新聞"
+    },
+    {
+      "url": "https://youtu.be/5n0y6b0Q25o",
       "name": "鏡新聞"
     },
     {
@@ -64,27 +64,31 @@
     },
     {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv041",
-      "name": "華視"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk&list=WL&index=3",
-      "name": "台視"
-    },
-    {
-      "url": "https://youtu.be/ylYJSBUgaMA",
-      "name": "民視"
+      "name": "華視CTS"
     },
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
       "name": "公共電視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=LqXVZ_hK3Xs",
-      "name": "大陸尋奇"
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv156",
+      "name": "寰宇台灣台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv158",
+      "name": "寰宇財經台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fN9uYWCjQaw",
+      "name": "鳳凰資訊台"
     },
     {
       "url": "https://www.youtube.com/watch?v=vNVp6bxkL1c",
       "name": "CCTV_4"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LqXVZ_hK3Xs",
+      "name": "大陸尋奇"
     },
     {
       "url": "https://youtu.be/n_NfJ6aRt4g",
