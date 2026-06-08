@@ -51,7 +51,7 @@
       "name": "三立新聞"
     },
     {
-      "url": "https://www.youtube.com/c/twctvnews/live",
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv040",
       "name": "中視"
     },
     {
