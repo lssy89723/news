@@ -91,6 +91,10 @@
       "name": "大陸尋奇"
     },
     {
+      "url": "https://hamivideo.hinet.net/channel/OTT_LIVE_0000001564.do",
+      "name": "東森新聞"
+    },
+    {
       "url": "https://youtu.be/n_NfJ6aRt4g",
       "name": "中文抖音歌曲"
     },
