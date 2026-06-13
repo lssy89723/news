@@ -6,8 +6,8 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
-      "name": "EBC東森LIVE"
+      "url": "http://211.23.95.147:18881/live/51_h265.ts",
+      "name": "EBC東森新聞"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn14",
@@ -23,11 +23,15 @@
       "name": "東森財經新聞"
     },
     {
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "name": "EBC東森LIVE"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
       "name": "TVBS新聞"
     },
     {
-      "url": "https://youtu.be/WAUECPu9EOw",
+      "url": "http://211.23.95.147:18881/live/56_h265.ts",
       "name": "TVBS56"
     },
     {
@@ -91,8 +95,12 @@
       "name": "大陸尋奇"
     },
     {
-      "url": "https://hamivideo.hinet.net/channel/OTT_LIVE_0000001564.do",
-      "name": "東森新聞"
+      "url": "http://211.23.95.147:18881/live/49_h265.ts",
+      "name": "壹新聞"
+    },
+    {
+      "url": "http://211.23.95.147:18881/live/50_h265.ts",
+      "name": "年代新聞"
     },
     {
       "url": "https://youtu.be/n_NfJ6aRt4g",
