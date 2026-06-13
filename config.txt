@@ -79,6 +79,14 @@
       "name": "三立新聞iNEWS"
     },
     {
+      "url": "http://211.23.95.147:18881/live/49_h265.ts",
+      "name": "壹新聞"
+    },
+    {
+      "url": "http://211.23.95.147:18881/live/50_h265.ts",
+      "name": "年代新聞"
+    },
+    {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv040",
       "name": "中視"
     },
@@ -109,14 +117,6 @@
     {
       "url": "https://www.youtube.com/watch?v=LqXVZ_hK3Xs",
       "name": "大陸尋奇"
-    },
-    {
-      "url": "http://211.23.95.147:18881/live/49_h265.ts",
-      "name": "壹新聞"
-    },
-    {
-      "url": "http://211.23.95.147:18881/live/50_h265.ts",
-      "name": "年代新聞"
     },
     {
       "url": "https://youtu.be/n_NfJ6aRt4g",
