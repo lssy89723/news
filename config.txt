@@ -19,7 +19,7 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=1I2iq41Akmo",
+      "url": "http://211.23.95.147:18881/live/57_h265.ts",
       "name": "東森財經新聞"
     },
     {
@@ -27,8 +27,8 @@
       "name": "EBC東森LIVE"
     },
     {
-      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
-      "name": "TVBS新聞"
+      "url": "http://211.23.95.147:18881/live/55_h265.ts",
+      "name": "TVBS新聞55"
     },
     {
       "url": "http://211.23.95.147:18881/live/56_h265.ts",
@@ -39,16 +39,32 @@
       "name": "中天新聞"
     },
     {
+      "url": "http://211.72.174.95:8113/0.ts",
+      "name": "中視"
+    },
+    {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv074",
       "name": "中視新聞"
+    },
+    {
+      "url": "http://211.72.174.95:8114/0.ts",
+      "name": "華視"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv052",
       "name": "CTS華視新聞資訊"
     },
     {
+      "url": "http://211.72.174.95:8112/0.ts",
+      "name": "台視"
+    },
+    {
       "url": "https://youtu.be/sNtCBxP-8LY",
       "name": "台視新聞"
+    },
+    {
+      "url": "http://211.72.174.95:8115/0.ts",
+      "name": "民視"
     },
     {
       "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
