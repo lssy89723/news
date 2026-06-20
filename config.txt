@@ -71,16 +71,8 @@
       "name": "鏡新聞"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/iNEWS",
-      "name": "三立新聞iNEWS"
-    },
-    {
-      "url": "http://211.23.95.147:18881/live/49_h265.ts",
-      "name": "壹新聞"
-    },
-    {
-      "url": "http://211.23.95.147:18881/live/50_h265.ts",
-      "name": "年代新聞"
+      "url": "https://www.youtube.com/watch?v=yeYC0mbSIOo",
+      "name": "LIVE三立"
     },
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
