@@ -27,7 +27,7 @@
       "name": "TVBS NEWS"
     },
     {
-      "url": "https://www.youtube.com/watch?v=WAUECPu9EOw",
+      "url": "https://www.youtube.com/watch?v=pkLOXxMlt20",
       "name": "TVBS HD"
     },
     {
@@ -83,7 +83,7 @@
       "name": "公共電視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=fN9uYWCjQaw",
+      "url": "https://www.youtube.com/watch?v=Ry--eMIjYLQ",
       "name": "鳳凰資訊台"
     },
     {
