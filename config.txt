@@ -59,7 +59,7 @@
       "name": "台視"
     },
     {
-      "url": "https://youtu.be/sNtCBxP-8LY",
+      "url": "http://220.135.241.47:8314/0.ts",
       "name": "台視新聞"
     },
     {
