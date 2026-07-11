@@ -6,8 +6,8 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
-      "name": "EBC東森LIVE"
+      "url": "http://125.227.210.55:4046/VideoInput/play.ts",
+      "name": "EBC東森新聞"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn14",
@@ -27,8 +27,8 @@
       "name": "TVBS NEWS"
     },
     {
-      "url": "https://www.youtube.com/watch?v=pkLOXxMlt20",
-      "name": "TVBS HD"
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "name": "EBC東森LIVE"
     },
     {
       "url": "https://www.youtube.com/watch?v=TMjUNWnNYmE",
