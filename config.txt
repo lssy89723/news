@@ -27,12 +27,12 @@
       "name": "TVBS NEWS"
     },
     {
-      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
-      "name": "EBC東森LIVE"
+      "url": "https://www.youtube.com/watch?v=eEvMO8zGIeI",
+      "name": "TVBS56"
     },
     {
-      "url": "https://www.youtube.com/watch?v=TMjUNWnNYmE",
-      "name": "TVBS財經"
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "name": "EBC東森LIVE"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv009",
