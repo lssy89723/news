@@ -6,10 +6,6 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://ha.msbot.dpdns.org/4gtv_api.php?id=291",
-      "name": "TVBS新聞HD"
-    },
-    {
       "url": "http://125.227.210.55:4046/VideoInput/play.ts",
       "name": "EBC東森新聞"
     },
