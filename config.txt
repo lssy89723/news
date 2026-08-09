@@ -10,10 +10,6 @@
       "name": "EBC東森新聞"
     },
     {
-      "url": "https://www.myvideo.net.tw/myvideo-tv/channel/ebc-news",
-      "name": "EBC東森新聞0"
-    },
-    {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn14",
       "name": "寰宇新聞"
     },
