@@ -91,11 +91,11 @@
       "name": "CCTV_4"
     },
     {
-      "url": "https://www.youtube.com/watch?v=LqXVZ_hK3Xs",
+      "url": "https://www.youtube.com/watch?v=ta7uI13rb_E",
       "name": "大陸尋奇"
     },
     {
-      "url": "https://youtu.be/n_NfJ6aRt4g",
+      "url": "https://www.youtube.com/watch?v=-w0iCf8HuoQ",
       "name": "中文抖音歌曲"
     },
     {
