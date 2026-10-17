@@ -71,7 +71,7 @@
       "name": "民視新聞"
     },
     {
-      "url": "https://youtu.be/5n0y6b0Q25o",
+      "url": "https://www.ofiii.com/channel/watch/mnews",
       "name": "鏡新聞"
     },
     {
