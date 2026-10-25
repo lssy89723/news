@@ -59,7 +59,7 @@
       "name": "台視"
     },
     {
-      "url": "http://220.135.241.47:8314/0.ts",
+      "url": "https://www.youtube.com/watch?v=9iRAqBMakXY",
       "name": "台視新聞"
     },
     {
@@ -95,7 +95,7 @@
       "name": "大陸尋奇"
     },
     {
-      "url": "https://www.youtube.com/watch?v=-w0iCf8HuoQ",
+      "url": "https://www.youtube.com/watch?v=k4Rar8K2IwU",
       "name": "中文抖音歌曲"
     },
     {
