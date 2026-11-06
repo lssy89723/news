@@ -83,11 +83,15 @@
       "name": "公共電視"
     },
     {
+      "url": "https://www.youtube.com/watch?v=cimbpAZUjzw",
+      "name": "東森綜合2台"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=Ry--eMIjYLQ",
       "name": "鳳凰資訊台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=vNVp6bxkL1c",
+      "url": "https://www.youtube.com/watch?v=cAqktxCy0ls",
       "name": "CCTV_4"
     },
     {
