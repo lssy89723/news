@@ -91,7 +91,7 @@
       "name": "鳳凰資訊台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=cAqktxCy0ls",
+      "url": "https://www.youtube.com/watch?v=X-HTZdV960U",
       "name": "CCTV_4"
     },
     {
